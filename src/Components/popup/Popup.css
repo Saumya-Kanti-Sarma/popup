@@ -1,0 +1,16 @@
+.main-popup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: palevioletred;
+  height: 100vh;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.main-popup button {
+  width: 200px;
+  height: 50px;
+  border-radius: 22px;
+  border: none;
+}
